@@ -1,0 +1,10 @@
+.background {
+    background: url(../imagenes/fondo.jpg) no-repeat center top;
+    width: 2000px;
+    height: 2000px;
+}
+
+.flex-container {
+    display: flex;
+    background-color: rgba(30, 255, 60, 0.658);
+  }
